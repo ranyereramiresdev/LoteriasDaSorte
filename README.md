@@ -1,3 +1,3 @@
 Link do projeto publicado:
 
-www.resultadoscasadasorte.site
+https://gerador-loteria-git-main-ranyeres-projects.vercel.app
